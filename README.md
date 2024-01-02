@@ -10,10 +10,10 @@ I'm a passionate back-end developer with expertise in Python, Django, NestJS, an
 
 ## My Tech Stack
 
-- **Languages:** Python, TypeScript
+- **Languages:** Python, TypeScript, JavaScript
 - **Frameworks:** Django, NestJS
 - **Database:** PostgreSQL, MySQL
-- **Tools & Technologies:** Docker, Git, REST APIs, Redis, Socket Programming
+- **Tools & Technologies:** Docker, Git, REST APIs, Redis
 
 
 ## Let's Connect!
