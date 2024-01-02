@@ -17,7 +17,7 @@ I'm a passionate back-end developer with expertise in Python, Django, NestJS, an
 
 ## Let's Connect!
 
-- 📫 How to reach me: [Your Email](amincht81@gmail.com)
+- 📫 How to reach me: [Email](amincht81@gmail.com)
 - 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/amin-chitsazan-892484221/)
 - 🐦 Follow me on [Twitter](https://twitter.com/yourtwitterhandle/)
 
