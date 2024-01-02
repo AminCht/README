@@ -6,22 +6,14 @@ I'm a passionate back-end developer with expertise in Python, Django, NestJS, an
 
 - 🔭 I'm currently working on [Your Current Project] - a [brief description].
 - 🌱 I'm constantly learning and exploring new technologies to enhance my skills.
-- 💬 Ask me about anything related to back-end development, Python, Django, NestJS, or TypeScript.
+- 💬 Ask me about anything related to back-end development, Python, Django, NestJS, TypeScript, or socket programming.
 
 ## My Tech Stack
 
 - **Languages:** Python, TypeScript
-- **Frameworks:** 
-  - ![Django Logo](images/django_logo.png) Django
-  - ![NestJS Logo](images/nestjs_logo.png) NestJS
-- **Database:** 
-  - ![PostgreSQL Logo](images/postgresql_logo.png) PostgreSQL
-  - ![MongoDB Logo](images/mongodb_logo.png) MongoDB
-- **Tools & Technologies:** 
-  - ![Docker Logo](images/docker_logo.png) Docker
-  - ![Git Logo](images/git_logo.png) Git
-  - ![REST APIs Logo](images/restapis_logo.png) REST APIs
-
+- **Frameworks:** Django, NestJS
+- **Database:** PostgreSQL, MongoDB
+- **Tools & Technologies:** Docker, Git, REST APIs, Socket Programming
 
 ## Let's Connect!
 
